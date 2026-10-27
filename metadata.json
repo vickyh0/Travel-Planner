@@ -1,0 +1,6 @@
+{
+  "name": "VoyageAI - AI Travel Planner & Itinerary Engine",
+  "description": "Personalized AI-powered travel planner that generates customized multi-day itineraries based on travel style, budget, and interests, with real-time adjustments and smart route optimization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
