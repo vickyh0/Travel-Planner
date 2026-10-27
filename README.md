@@ -67,28 +67,3 @@ streamlit run app.py
 ```
 Open your browser at `http://localhost:8501`.
 
----
-
-## 🌐 How to Publish for Free (1-Click)
-
-### Option A: Streamlit Community Cloud (Recommended)
-1. Push this repository to your **GitHub** account.
-2. Go to [share.streamlit.io](https://share.streamlit.io/) and log in with GitHub.
-3. Click **"New app"**, select your repository, set main file path to `app.py`.
-4. Add your `OPENAI_API_KEY` under **Advanced Settings > Secrets**.
-5. Click **Deploy** — your live app URL will be generated instantly (e.g., `https://your-app.streamlit.app`).
-
-### Option B: Hugging Face Spaces
-1. Create a new Space on [Hugging Face](https://huggingface.co/spaces) selecting the **Streamlit** SDK.
-2. Push `app.py`, `travel_planner.py`, and `requirements.txt`.
-3. Add `OPENAI_API_KEY` to Space Secrets.
-
-### Option C: Render / Railway
-1. Connect your GitHub repository to [Render](https://render.com/).
-2. Choose **Web Service**, set runtime to **Python 3**.
-3. Start command: `streamlit run app.py --server.port $PORT --server.address 0.0.0.0`.
-
----
-
-## 📄 License
-MIT License. Free for portfolio, educational, and commercial use.
