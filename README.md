@@ -1,11 +1,5 @@
 # VoyageAI - AI-Powered Travel Planner
 
-[![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
-[![OpenAI](https://img.shields.io/badge/OpenAI-GPT--4o-green.svg)](https://platform.openai.com/)
-[![Streamlit](https://img.shields.io/badge/Streamlit-App-red.svg)](https://streamlit.io/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
-> **Resume Highlight**:  
 > *Developed an AI-powered travel planner using Python, streamlining trip planning by generating personalized itineraries based on user preferences, improving travel planning efficiency by 40% with real-time adjustments through OpenAI’s GPT integration.*
 
 ---
